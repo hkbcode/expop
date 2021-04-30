@@ -1,4 +1,6 @@
-## Expo React Native starter with React Native UI elements
+## React Native Starter App with React Native Elements UI
 
 
-- With TypeScript
+- Expo
+- TypeScript
+- React Native Elements for UI design

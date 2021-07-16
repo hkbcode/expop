@@ -7,7 +7,7 @@ import Header from './components/Header'
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text h1>Expo Starter With RN Element</Text>
+      <Text h1>Expo + RN Element</Text>
       <StatusBar style="auto" />
       <Header />
     </View>

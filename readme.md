@@ -1,6 +1,1 @@
-## React Native Starter App with React Native Elements UI
-
-
-- Expo
-- TypeScript
-- React Native Elements for UI design
+# start building app with this repo
